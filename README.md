@@ -20,7 +20,7 @@ Workflows are available utilizing both **DADA2** (via R) and **QIIME2** (via she
 ## Repository Tour & Script Breakdown
 
 ### 1. DADA2 RMarkdown Pipelines (`.Rmd`)
-These interactive notebooks resolve sequence variants, with approaches tailed to the quirks of target region and sequencing technology.
+These interactive notebooks resolve sequence variants, with approaches tailored to the quirks of target region and sequencing technology.
 
 * **[DADA2-16S-single-run.Rmd](./DADA2-16S-single-run.Rmd)** / **[DADA2-16S-multiple-runs.Rmd](./DADA2-16S-multiple-runs.Rmd)**
     * *Target:* Short-read bacterial 16S rRNA.
