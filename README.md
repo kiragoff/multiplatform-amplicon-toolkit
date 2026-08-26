@@ -59,5 +59,15 @@ As you progress through the quality profiles and intermediate plots (like DADA2 
 
 Throughout the R scripts, you will find comments indicating that certain metadata or files "must be formatted a certain way." 
 
+## Example figures
+
+<img src = https://github.com/kiragoff/multiplatform-amplicon-toolkit/blob/main/figures/f%20alpha%20by%20biocide.png>
+
+<img src = https://github.com/kiragoff/multiplatform-amplicon-toolkit/blob/main/figures/f%20alpha%20by%20biocide.png>
+
+<img src = https://github.com/kiragoff/multiplatform-amplicon-toolkit/blob/main/figures/pca-iris-wrapped-hor.png>
+
+<img src = https://github.com/kiragoff/multiplatform-amplicon-toolkit/blob/main/figures/gg-equal.png>
+
 These are put in place as guardrails to prevent common code breaks. However, if you are comfortable editing R code, feel free to play around and adapt the scripts to fit your specific metadata structures and experimental designs!
 
