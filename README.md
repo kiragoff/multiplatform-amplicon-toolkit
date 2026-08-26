@@ -63,7 +63,7 @@ Throughout the R scripts, you will find comments indicating that certain metadat
 
 <img src = https://github.com/kiragoff/multiplatform-amplicon-toolkit/blob/main/figures/f%20alpha%20by%20biocide.png>
 
-<img src = https://github.com/kiragoff/multiplatform-amplicon-toolkit/blob/main/figures/f%20alpha%20by%20biocide.png>
+<img src = https://github.com/kiragoff/multiplatform-amplicon-toolkit/blob/main/figures/bg-genus-salinity-temp.png>
 
 <img src = https://github.com/kiragoff/multiplatform-amplicon-toolkit/blob/main/figures/pca-iris-wrapped-hor.png>
 
