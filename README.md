@@ -57,7 +57,7 @@ As you progress through the quality profiles and intermediate plots (like DADA2 
 
 ## Customization & R "Guardrails"
 
-Throughout the R scripts, you will find comments indicating that certain metadata or files "must be formatted a certain way." 
+Throughout the R scripts, you will find comments indicating that certain metadata or files "must be formatted a certain way." These are put in place as guardrails to prevent common code breaks. However, if you are comfortable editing R code, feel free to play around and adapt the scripts to fit your specific metadata structures and experimental designs!
 
 ## Example figures
 
@@ -68,6 +68,4 @@ Throughout the R scripts, you will find comments indicating that certain metadat
 <img src = https://github.com/kiragoff/multiplatform-amplicon-toolkit/blob/main/figures/pca-iris-wrapped-hor.png>
 
 <img src = https://github.com/kiragoff/multiplatform-amplicon-toolkit/blob/main/figures/gg-equal.png>
-
-These are put in place as guardrails to prevent common code breaks. However, if you are comfortable editing R code, feel free to play around and adapt the scripts to fit your specific metadata structures and experimental designs!
 
