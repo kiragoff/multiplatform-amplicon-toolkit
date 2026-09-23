@@ -4,6 +4,8 @@ This repository is a curated collection of scripts and workflows for processing 
 
 Workflows are available utilizing both **DADA2** (via R) and **QIIME2** (via shell scripts), followed by downstream analysis  and visualization using R (primarily using the **phyloseq** package, but pulling in others as needed).
 
+<img src = https://github.com/kiragoff/multiplatform-amplicon-toolkit/blob/main/figures/pca-iris-wrapped-hor.png>
+
 ---
 
 ## Critical Information Regarding Analyzing Multiple Sequencing Runs
@@ -64,8 +66,6 @@ Throughout the R scripts, you will find comments indicating that certain metadat
 <img src = https://github.com/kiragoff/multiplatform-amplicon-toolkit/blob/main/figures/f%20alpha%20by%20biocide.png>
 
 <img src = https://github.com/kiragoff/multiplatform-amplicon-toolkit/blob/main/figures/bg-genus-salinity-temp.png>
-
-<img src = https://github.com/kiragoff/multiplatform-amplicon-toolkit/blob/main/figures/pca-iris-wrapped-hor.png>
 
 <img src = https://github.com/kiragoff/multiplatform-amplicon-toolkit/blob/main/figures/gg-equal.png>
 
